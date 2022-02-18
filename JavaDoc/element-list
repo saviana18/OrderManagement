@@ -1,0 +1,7 @@
+module:org.ordermanagement
+org.ordermanagement
+org.ordermanagement.bll
+org.ordermanagement.connection
+org.ordermanagement.dao
+org.ordermanagement.model
+org.ordermanagement.presentation
